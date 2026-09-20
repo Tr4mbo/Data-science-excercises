@@ -1,0 +1,227 @@
+﻿name,part_type,first_rate_pct,win_share_pct,usage_pct,top_cuts,snapshot_date,source_url,has_meta_data,meta_status
+Aero Pegasus,blade,35.7,21.9,21.0,2028.0,2026-09-20,https://beywatch.gg/blades/aero-pegasus,1,observed
+Antler,blade,40.0,0.1,0.1,5.0,2026-09-20,https://beywatch.gg/blades/antler,1,observed
+Arc,blade,29.5,0.4,0.5,44.0,2026-09-20,https://beywatch.gg/blades/arc,1,observed
+Bite Croc,blade,37.0,0.5,0.5,46.0,2026-09-20,https://beywatch.gg/blades/bite-croc,1,observed
+Black Shell,blade,47.4,0.3,0.2,19.0,2026-09-20,https://beywatch.gg/blades/black-shell,1,observed
+Blast,blade,35.4,13.0,12.6,1214.0,2026-09-20,https://beywatch.gg/blades/blast,1,observed
+Blitz,blade,34.1,0.9,0.9,85.0,2026-09-20,https://beywatch.gg/blades/blitz,1,observed
+Brave,blade,26.9,0.9,1.1,108.0,2026-09-20,https://beywatch.gg/blades/brave,1,observed
+Brush,blade,24.4,0.3,0.4,41.0,2026-09-20,https://beywatch.gg/blades/brush,1,observed
+Bullet Griffon,blade,31.5,1.9,2.0,197.0,2026-09-20,https://beywatch.gg/blades/bullet-griffon,1,observed
+Bumblebee,blade,33.3,0.0,0.0,3.0,2026-09-20,https://beywatch.gg/blades/bumblebee,1,observed
+Captain America,blade,,,,,2026-09-20,https://beywatch.gg/blades/captain-america,0,pending_or_insufficient
+Chewbacca,blade,100.0,0.0,0.0,1.0,2026-09-20,https://beywatch.gg/blades/chewbacca,1,observed
+Clamp Crab,blade,,,,,2026-09-20,https://beywatch.gg/blades/clamp-crab,0,pending_or_insufficient
+Clock Mirage,blade,30.6,2.5,2.8,268.0,2026-09-20,https://beywatch.gg/blades/clock-mirage,1,observed
+Cobalt Dragoon,blade,34.1,23.6,23.6,2277.0,2026-09-20,https://beywatch.gg/blades/cobalt-dragoon,1,observed
+Cobalt Drake,blade,31.4,1.0,1.1,105.0,2026-09-20,https://beywatch.gg/blades/cobalt-drake,1,observed
+Crimson Garuda,blade,26.4,0.6,0.7,72.0,2026-09-20,https://beywatch.gg/blades/crimson-garuda,1,observed
+Cutter Shinobi,blade,0.0,0.0,0.0,2.0,2026-09-20,https://beywatch.gg/blades/cutter-shinobi,1,observed
+Dark,blade,26.7,0.1,0.2,15.0,2026-09-20,https://beywatch.gg/blades/dark,1,observed
+Darth Vader,blade,40.0,0.1,0.1,5.0,2026-09-20,https://beywatch.gg/blades/darth-vader,1,observed
+Delta,blade,29.9,1.1,1.2,117.0,2026-09-20,https://beywatch.gg/blades/delta,1,observed
+Doctor Doom,blade,,,,,2026-09-20,https://beywatch.gg/blades/doctor-doom,0,pending_or_insufficient
+Draciel Shield,blade,44.4,0.1,0.1,9.0,2026-09-20,https://beywatch.gg/blades/draciel-shield,1,observed
+Dragoon Storm,blade,28.6,0.2,0.3,28.0,2026-09-20,https://beywatch.gg/blades/dragoon-storm,1,observed
+Dran Buster,blade,31.9,4.4,4.7,454.0,2026-09-20,https://beywatch.gg/blades/dran-buster,1,observed
+Dran Dagger,blade,27.4,0.8,1.0,95.0,2026-09-20,https://beywatch.gg/blades/dran-dagger,1,observed
+Dran Strike,blade,32.2,2.6,2.7,264.0,2026-09-20,https://beywatch.gg/blades/dran-strike,1,observed
+Dran Sword,blade,27.6,1.5,1.8,174.0,2026-09-20,https://beywatch.gg/blades/dran-sword,1,observed
+Dranzer Spiral,blade,37.5,0.2,0.2,16.0,2026-09-20,https://beywatch.gg/blades/dranzer-spiral,1,observed
+Driger Slash,blade,25.0,0.1,0.1,12.0,2026-09-20,https://beywatch.gg/blades/driger-slash,1,observed
+Eclipse,blade,31.5,0.8,0.9,89.0,2026-09-20,https://beywatch.gg/blades/eclipse,1,observed
+Fang,blade,36.4,0.1,0.1,11.0,2026-09-20,https://beywatch.gg/blades/fang,1,observed
+Flame,blade,31.3,0.2,0.2,16.0,2026-09-20,https://beywatch.gg/blades/flame,1,observed
+Flare,blade,20.5,0.3,0.5,44.0,2026-09-20,https://beywatch.gg/blades/flare,1,observed
+Fort,blade,0.0,0.0,0.0,3.0,2026-09-20,https://beywatch.gg/blades/fort,1,observed
+Fortress,blade,28.2,0.3,0.4,39.0,2026-09-20,https://beywatch.gg/blades/fortress,1,observed
+General Grievous,blade,0.0,0.0,0.0,1.0,2026-09-20,https://beywatch.gg/blades/general-grievous,1,observed
+Ghost Circle,blade,26.3,0.3,0.4,38.0,2026-09-20,https://beywatch.gg/blades/ghost-circle,1,observed
+Gill Shark,blade,25.0,0.1,0.1,12.0,2026-09-20,https://beywatch.gg/blades/gill-shark,1,observed
+Glare Cyclops,blade,,,,,2026-09-20,https://beywatch.gg/blades/glare-cyclops,0,pending_or_insufficient
+Glory Valkyrie,blade,34.3,1.4,1.4,137.0,2026-09-20,https://beywatch.gg/blades/glory-valkyrie,1,observed
+Golem Rock,blade,28.5,5.0,6.0,582.0,2026-09-20,https://beywatch.gg/blades/golem-rock,1,observed
+Green Goblin,blade,,,,,2026-09-20,https://beywatch.gg/blades/green-goblin,0,pending_or_insufficient
+Grogu,blade,,,,,2026-09-20,https://beywatch.gg/blades/grogu,0,pending_or_insufficient
+Gust Bat,blade,40.0,0.1,0.1,5.0,2026-09-20,https://beywatch.gg/blades/gust-bat,1,observed
+Hack Viking,blade,0.0,0.0,0.0,4.0,2026-09-20,https://beywatch.gg/blades/hack-viking,1,observed
+Heavens Ring,blade,21.9,0.2,0.3,32.0,2026-09-20,https://beywatch.gg/blades/heavens-ring,1,observed
+Hells Chain,blade,29.8,1.0,1.2,114.0,2026-09-20,https://beywatch.gg/blades/hells-chain,1,observed
+Hells Hammer,blade,27.1,0.9,1.1,107.0,2026-09-20,https://beywatch.gg/blades/hells-hammer,1,observed
+Hells Nether,blade,16.7,0.2,0.3,30.0,2026-09-20,https://beywatch.gg/blades/hells-nether,1,observed
+Hells Scythe,blade,32.7,2.8,2.9,281.0,2026-09-20,https://beywatch.gg/blades/hells-scythe,1,observed
+Hover Wyvern,blade,32.8,19.2,20.0,1930.0,2026-09-20,https://beywatch.gg/blades/hover-wyvern,1,observed
+Hulk,blade,0.0,0.0,0.0,1.0,2026-09-20,https://beywatch.gg/blades/hulk,1,observed
+Hunt,blade,24.0,0.2,0.3,25.0,2026-09-20,https://beywatch.gg/blades/hunt,1,observed
+Hurricane,blade,100.0,0.0,0.0,1.0,2026-09-20,https://beywatch.gg/blades/hurricane,1,observed
+Impact Drake,blade,32.4,2.9,3.1,299.0,2026-09-20,https://beywatch.gg/blades/impact-drake,1,observed
+Iron Man,blade,0.0,0.0,0.0,1.0,2026-09-20,https://beywatch.gg/blades/iron-man,1,observed
+Knife Shinobi,blade,20.0,0.1,0.2,15.0,2026-09-20,https://beywatch.gg/blades/knife-shinobi,1,observed
+Knight Lance,blade,25.0,0.3,0.4,36.0,2026-09-20,https://beywatch.gg/blades/knight-lance,1,observed
+Knight Mail,blade,27.6,4.2,5.2,507.0,2026-09-20,https://beywatch.gg/blades/knight-mail,1,observed
+Knight Shield,blade,34.3,1.1,1.1,105.0,2026-09-20,https://beywatch.gg/blades/knight-shield,1,observed
+Leon Claw,blade,23.8,0.2,0.2,21.0,2026-09-20,https://beywatch.gg/blades/leon-claw,1,observed
+Leon Crest,blade,33.3,0.4,0.4,42.0,2026-09-20,https://beywatch.gg/blades/leon-crest,1,observed
+Lightning L-Drago (Rapid-Hit Type),blade,40.0,0.5,0.4,40.0,2026-09-20,https://beywatch.gg/blades/lightning-l-drago-rapid-hit-type,1,observed
+Lightning L-Drago (Upper Type),blade,,,,,2026-09-20,https://beywatch.gg/blades/lightning-l-drago-upper-type,0,pending_or_insufficient
+Luke Skywalker,blade,,,,,2026-09-20,https://beywatch.gg/blades/luke-skywalker,0,pending_or_insufficient
+Luster Dragoon,blade,,,,,2026-09-20,https://beywatch.gg/blades/luster-dragoon,0,pending_or_insufficient
+Megatron,blade,50.0,0.0,0.0,2.0,2026-09-20,https://beywatch.gg/blades/megatron,1,observed
+Meteor Dragoon,blade,32.9,6.6,6.9,662.0,2026-09-20,https://beywatch.gg/blades/meteor-dragoon,1,observed
+Might,blade,34.0,0.5,0.5,53.0,2026-09-20,https://beywatch.gg/blades/might,1,observed
+Miles Morales,blade,0.0,0.0,0.0,1.0,2026-09-20,https://beywatch.gg/blades/miles-morales,1,observed
+Mister Fantastic,blade,,,,,2026-09-20,https://beywatch.gg/blades/mister-fantastic,0,pending_or_insufficient
+Moff Gideon,blade,33.3,0.0,0.0,3.0,2026-09-20,https://beywatch.gg/blades/moff-gideon,1,observed
+Obi-Wan Kenobi,blade,100.0,0.1,0.0,2.0,2026-09-20,https://beywatch.gg/blades/obi-wan-kenobi,1,observed
+Optimus Primal,blade,24.3,0.3,0.4,37.0,2026-09-20,https://beywatch.gg/blades/optimus-primal,1,observed
+Optimus Prime,blade,28.6,0.1,0.1,7.0,2026-09-20,https://beywatch.gg/blades/optimus-prime,1,observed
+Phoenix Feather,blade,14.3,0.1,0.3,28.0,2026-09-20,https://beywatch.gg/blades/phoenix-feather,1,observed
+Phoenix Rudder,blade,34.0,0.5,0.5,47.0,2026-09-20,https://beywatch.gg/blades/phoenix-rudder,1,observed
+Phoenix Wing,blade,33.2,28.3,29.1,2815.0,2026-09-20,https://beywatch.gg/blades/phoenix-wing,1,observed
+Rage,blade,32.3,0.6,0.6,62.0,2026-09-20,https://beywatch.gg/blades/rage,1,observed
+Rampart Aegis,blade,0.0,0.0,0.0,1.0,2026-09-20,https://beywatch.gg/blades/rampart-aegis,1,observed
+Reaper,blade,34.8,0.2,0.2,23.0,2026-09-20,https://beywatch.gg/blades/reaper,1,observed
+Red Hulk,blade,29.2,0.2,0.2,24.0,2026-09-20,https://beywatch.gg/blades/red-hulk,1,observed
+Rhino Horn,blade,36.8,0.2,0.2,19.0,2026-09-20,https://beywatch.gg/blades/rhino-horn,1,observed
+Roar Tyranno,blade,28.4,1.2,1.5,141.0,2026-09-20,https://beywatch.gg/blades/roar-tyranno,1,observed
+Rock Leone,blade,11.1,0.0,0.1,9.0,2026-09-20,https://beywatch.gg/blades/rock-leone,1,observed
+Samurai Calibur,blade,26.5,1.5,1.9,181.0,2026-09-20,https://beywatch.gg/blades/samurai-calibur,1,observed
+Samurai Saber,blade,29.9,1.8,2.1,204.0,2026-09-20,https://beywatch.gg/blades/samurai-saber,1,observed
+Savage Bear,blade,50.0,0.1,0.1,6.0,2026-09-20,https://beywatch.gg/blades/savage-bear,1,observed
+Scorpio Spear,blade,30.4,3.9,4.4,427.0,2026-09-20,https://beywatch.gg/blades/scorpio-spear,1,observed
+Seize Jaguar,blade,,,,,2026-09-20,https://beywatch.gg/blades/seize-jaguar,0,pending_or_insufficient
+Shark Edge,blade,27.3,3.2,4.0,388.0,2026-09-20,https://beywatch.gg/blades/shark-edge,1,observed
+Shark Scale,blade,35.8,47.0,44.9,4335.0,2026-09-20,https://beywatch.gg/blades/shark-scale,1,observed
+Shatter Horus,blade,,,,,2026-09-20,https://beywatch.gg/blades/shatter-horus,0,pending_or_insufficient
+Shelter Drake,blade,14.3,0.1,0.2,21.0,2026-09-20,https://beywatch.gg/blades/shelter-drake,1,observed
+Shinobi Shadow,blade,12.5,0.1,0.2,24.0,2026-09-20,https://beywatch.gg/blades/shinobi-shadow,1,observed
+Shockwave,blade,33.3,0.0,0.0,3.0,2026-09-20,https://beywatch.gg/blades/shockwave,1,observed
+Silver Wolf,blade,32.1,15.5,16.5,1589.0,2026-09-20,https://beywatch.gg/blades/silver-wolf,1,observed
+Sphinx Cowl,blade,44.4,0.1,0.1,9.0,2026-09-20,https://beywatch.gg/blades/sphinx-cowl,1,observed
+Spider-Man,blade,0.0,0.0,0.0,1.0,2026-09-20,https://beywatch.gg/blades/spider-man,1,observed
+Starscream,blade,33.3,0.0,0.0,3.0,2026-09-20,https://beywatch.gg/blades/starscream,1,observed
+Steel Samurai,blade,21.4,0.1,0.1,14.0,2026-09-20,https://beywatch.gg/blades/steel-samurai,1,observed
+Storm Pegasis,blade,42.9,0.1,0.1,7.0,2026-09-20,https://beywatch.gg/blades/storm-pegasis,1,observed
+Storm Spriggan,blade,0.0,0.0,0.0,1.0,2026-09-20,https://beywatch.gg/blades/storm-spriggan,1,observed
+Stormtrooper,blade,,,,,2026-09-20,https://beywatch.gg/blades/stormtrooper,0,pending_or_insufficient
+Stun Medusa,blade,100.0,0.0,0.0,1.0,2026-09-20,https://beywatch.gg/blades/stun-medusa,1,observed
+Suppress Superion,blade,0.0,0.0,0.0,4.0,2026-09-20,https://beywatch.gg/blades/suppress-superion,1,observed
+Tackle Goat,blade,33.3,0.1,0.1,6.0,2026-09-20,https://beywatch.gg/blades/tackle-goat,1,observed
+Talon Ptera,blade,30.0,0.3,0.3,30.0,2026-09-20,https://beywatch.gg/blades/talon-ptera,1,observed
+Thanos,blade,,,,,2026-09-20,https://beywatch.gg/blades/thanos,0,pending_or_insufficient
+The Mandalorian,blade,,,,,2026-09-20,https://beywatch.gg/blades/the-mandalorian,0,pending_or_insufficient
+Tread,blade,0.0,0.0,0.0,1.0,2026-09-20,https://beywatch.gg/blades/tread,1,observed
+Tricera Press,blade,18.6,0.2,0.4,43.0,2026-09-20,https://beywatch.gg/blades/tricera-press,1,observed
+Tricera Spiky,blade,14.3,0.0,0.1,7.0,2026-09-20,https://beywatch.gg/blades/tricera-spiky,1,observed
+Trypio,blade,,,,,2026-09-20,https://beywatch.gg/blades/trypio,0,pending_or_insufficient
+Tusk Mammoth,blade,43.5,0.3,0.2,23.0,2026-09-20,https://beywatch.gg/blades/tusk-mammoth,1,observed
+Tyranno Beat,blade,31.4,10.0,10.9,1055.0,2026-09-20,https://beywatch.gg/blades/tyranno-beat,1,observed
+Unicorn Sting,blade,28.6,1.8,2.2,213.0,2026-09-20,https://beywatch.gg/blades/unicorn-sting,1,observed
+Valor Bison,blade,31.8,0.2,0.2,22.0,2026-09-20,https://beywatch.gg/blades/valor-bison,1,observed
+Venom,blade,21.4,0.1,0.1,14.0,2026-09-20,https://beywatch.gg/blades/venom,1,observed
+Victory Valkyrie,blade,18.2,0.1,0.1,11.0,2026-09-20,https://beywatch.gg/blades/victory-valkyrie,1,observed
+Viper Tail,blade,17.9,0.2,0.4,39.0,2026-09-20,https://beywatch.gg/blades/viper-tail,1,observed
+Volt,blade,10.5,0.1,0.2,19.0,2026-09-20,https://beywatch.gg/blades/volt,1,observed
+Weiss Tiger,blade,23.1,0.4,0.5,52.0,2026-09-20,https://beywatch.gg/blades/weiss-tiger,1,observed
+Whale Wave,blade,28.8,2.2,2.6,250.0,2026-09-20,https://beywatch.gg/blades/whale-wave,1,observed
+Whip,blade,53.8,0.2,0.1,13.0,2026-09-20,https://beywatch.gg/blades/whip,1,observed
+Wizard Arrow,blade,26.5,0.7,0.9,83.0,2026-09-20,https://beywatch.gg/blades/wizard-arrow,1,observed
+Wizard Rod,blade,35.5,64.4,62.0,5987.0,2026-09-20,https://beywatch.gg/blades/wizard-rod,1,observed
+Wriggle,blade,12.5,0.0,0.1,8.0,2026-09-20,https://beywatch.gg/blades/wriggle,1,observed
+Wyvern Gale,blade,27.6,0.2,0.3,29.0,2026-09-20,https://beywatch.gg/blades/wyvern-gale,1,observed
+Xeno Xcalibur,blade,33.3,0.1,0.1,6.0,2026-09-20,https://beywatch.gg/blades/xeno-xcalibur,1,observed
+Yell Kong,blade,25.0,0.0,0.0,4.0,2026-09-20,https://beywatch.gg/blades/yell-kong,1,observed
+Accel (A),bit,26.9,0.5,0.7,67.0,2026-09-20,https://beywatch.gg/parts/bit-accel,1,observed
+Ball (B),bit,34.2,17.7,17.7,1713.0,2026-09-20,https://beywatch.gg/parts/bit-ball,1,observed
+Bound Spike (BS),bit,32.6,0.5,0.5,46.0,2026-09-20,https://beywatch.gg/parts/bit-bound-spike,1,observed
+Cyclone (C),bit,25.0,0.8,1.0,100.0,2026-09-20,https://beywatch.gg/parts/bit-cyclone,1,observed
+Disk Ball (DB),bit,34.4,0.7,0.7,64.0,2026-09-20,https://beywatch.gg/parts/bit-disk-ball,1,observed
+Disk Spike (DS),bit,0.0,0.0,0.0,2.0,2026-09-20,https://beywatch.gg/parts/bit-disk-spike,1,observed
+Dot (D),bit,24.6,0.4,0.6,57.0,2026-09-20,https://beywatch.gg/parts/bit-dot,1,observed
+Elevate (E),bit,34.9,23.2,22.7,2191.0,2026-09-20,https://beywatch.gg/parts/bit-elevate,1,observed
+Flat (F),bit,23.3,2.2,3.2,313.0,2026-09-20,https://beywatch.gg/parts/bit-flat,1,observed
+Free Ball (FB),bit,33.1,23.3,24.1,2323.0,2026-09-20,https://beywatch.gg/parts/bit-free-ball,1,observed
+Free Flat (FF),bit,34.0,0.5,0.5,47.0,2026-09-20,https://beywatch.gg/parts/bit-free-flat,1,observed
+Gear Ball (GB),bit,22.0,0.3,0.4,41.0,2026-09-20,https://beywatch.gg/parts/bit-gear-ball,1,observed
+Gear Flat (GF),bit,27.5,0.6,0.7,69.0,2026-09-20,https://beywatch.gg/parts/bit-gear-flat,1,observed
+Gear Needle (GN),bit,21.4,0.2,0.3,28.0,2026-09-20,https://beywatch.gg/parts/bit-gear-needle,1,observed
+Gear Point (GP),bit,31.9,0.9,1.0,94.0,2026-09-20,https://beywatch.gg/parts/bit-gear-point,1,observed
+Gear Rush (GR),bit,23.8,0.2,0.2,21.0,2026-09-20,https://beywatch.gg/parts/bit-gear-rush,1,observed
+Gear Unite (GU),bit,0.0,0.0,0.0,4.0,2026-09-20,https://beywatch.gg/parts/bit-gear-unite,1,observed
+Glide (G),bit,22.2,0.2,0.4,36.0,2026-09-20,https://beywatch.gg/parts/bit-glide,1,observed
+Hexa (H),bit,34.5,48.0,47.5,4587.0,2026-09-20,https://beywatch.gg/parts/bit-hexa,1,observed
+High Needle (HN),bit,31.0,0.7,0.7,71.0,2026-09-20,https://beywatch.gg/parts/bit-high-needle,1,observed
+High Taper (HT),bit,24.6,0.5,0.7,65.0,2026-09-20,https://beywatch.gg/parts/bit-high-taper,1,observed
+Ignition (I),bit,40.0,0.4,0.3,30.0,2026-09-20,https://beywatch.gg/parts/bit-ignition,1,observed
+Jolt (J),bit,30.9,4.9,5.4,521.0,2026-09-20,https://beywatch.gg/parts/bit-jolt,1,observed
+Kick (K),bit,34.2,26.7,26.7,2579.0,2026-09-20,https://beywatch.gg/parts/bit-kick,1,observed
+Level (L),bit,31.4,19.9,21.6,2087.0,2026-09-20,https://beywatch.gg/parts/bit-level,1,observed
+Low Cyclone (LC),bit,,,,,2026-09-20,https://beywatch.gg/parts/bit-low-cyclone,0,pending_or_insufficient
+Low Flat (LF),bit,27.1,4.1,5.1,495.0,2026-09-20,https://beywatch.gg/parts/bit-low-flat,1,observed
+Low Orb (LO),bit,32.2,8.8,9.3,902.0,2026-09-20,https://beywatch.gg/parts/bit-low-orb,1,observed
+Low Point (LP),bit,,,,,2026-09-20,https://beywatch.gg/parts/bit-low-point,0,pending_or_insufficient
+Low Rush (LR),bit,35.4,47.9,46.2,4465.0,2026-09-20,https://beywatch.gg/parts/bit-low-rush,1,observed
+Merge (M),bit,31.6,0.4,0.4,38.0,2026-09-20,https://beywatch.gg/parts/bit-merge,1,observed
+Metal Needle (MN),bit,20.0,0.0,0.1,5.0,2026-09-20,https://beywatch.gg/parts/bit-metal-needle,1,observed
+Narrow (Nr),bit,34.7,1.8,1.8,170.0,2026-09-20,https://beywatch.gg/parts/bit-narrow,1,observed
+Needle (N),bit,28.3,0.5,0.6,60.0,2026-09-20,https://beywatch.gg/parts/bit-needle,1,observed
+Operate (Op),bit,26.9,0.2,0.3,26.0,2026-09-20,https://beywatch.gg/parts/bit-operate,1,observed
+Orb (O),bit,32.0,2.6,2.8,269.0,2026-09-20,https://beywatch.gg/parts/bit-orb,1,observed
+Point (P),bit,31.5,11.5,12.5,1205.0,2026-09-20,https://beywatch.gg/parts/bit-point,1,observed
+Quake (Q),bit,17.1,0.2,0.4,35.0,2026-09-20,https://beywatch.gg/parts/bit-quake,1,observed
+Rubber Accel (RA),bit,28.6,2.4,2.8,273.0,2026-09-20,https://beywatch.gg/parts/bit-rubber-accel,1,observed
+Rush (R),bit,35.1,47.0,45.7,4418.0,2026-09-20,https://beywatch.gg/parts/bit-rush,1,observed
+Spike (S),bit,21.4,0.2,0.3,28.0,2026-09-20,https://beywatch.gg/parts/bit-spike,1,observed
+Taper (T),bit,30.2,5.5,6.2,602.0,2026-09-20,https://beywatch.gg/parts/bit-taper,1,observed
+Trans Kick (TK),bit,20.5,0.3,0.5,44.0,2026-09-20,https://beywatch.gg/parts/bit-trans-kick,1,observed
+Trans Point (TP),bit,18.9,0.2,0.4,37.0,2026-09-20,https://beywatch.gg/parts/bit-trans-point,1,observed
+Turbo (Tr),bit,25.0,0.1,0.1,8.0,2026-09-20,https://beywatch.gg/parts/bit-turbo,1,observed
+Under Flat (UF),bit,22.3,0.6,1.0,94.0,2026-09-20,https://beywatch.gg/parts/bit-under-flat,1,observed
+Under Needle (UN),bit,30.0,2.8,3.2,313.0,2026-09-20,https://beywatch.gg/parts/bit-under-needle,1,observed
+Unite (U),bit,34.9,2.9,2.9,278.0,2026-09-20,https://beywatch.gg/parts/bit-unite,1,observed
+Vortex (V),bit,32.3,0.3,0.3,31.0,2026-09-20,https://beywatch.gg/parts/bit-vortex,1,observed
+Wall Ball (WB),bit,30.4,0.8,1.0,92.0,2026-09-20,https://beywatch.gg/parts/bit-wall-ball,1,observed
+Wall Wedge (WW),bit,21.4,0.1,0.1,14.0,2026-09-20,https://beywatch.gg/parts/bit-wall-wedge,1,observed
+Wedge (W),bit,28.9,4.5,5.3,516.0,2026-09-20,https://beywatch.gg/parts/bit-wedge,1,observed
+Yielding (Y),bit,23.8,0.2,0.2,21.0,2026-09-20,https://beywatch.gg/parts/bit-yielding,1,observed
+Zap (Z),bit,30.0,0.6,0.7,70.0,2026-09-20,https://beywatch.gg/parts/bit-zap,1,observed
+0-60,ratchet,28.6,0.6,0.7,70.0,2026-09-20,https://beywatch.gg/parts/ratchet-0-60,1,observed
+0-70,ratchet,26.4,0.4,0.5,53.0,2026-09-20,https://beywatch.gg/parts/ratchet-0-70,1,observed
+0-80,ratchet,31.4,0.5,0.5,51.0,2026-09-20,https://beywatch.gg/parts/ratchet-0-80,1,observed
+1-50,ratchet,35.2,8.9,8.6,832.0,2026-09-20,https://beywatch.gg/parts/ratchet-1-50,1,observed
+1-60,ratchet,35.1,77.5,75.5,7289.0,2026-09-20,https://beywatch.gg/parts/ratchet-1-60,1,observed
+1-70,ratchet,35.4,20.2,19.4,1878.0,2026-09-20,https://beywatch.gg/parts/ratchet-1-70,1,observed
+1-80,ratchet,31.2,2.2,2.4,234.0,2026-09-20,https://beywatch.gg/parts/ratchet-1-80,1,observed
+2-60,ratchet,20.7,0.4,0.6,58.0,2026-09-20,https://beywatch.gg/parts/ratchet-2-60,1,observed
+2-70,ratchet,23.8,0.2,0.2,21.0,2026-09-20,https://beywatch.gg/parts/ratchet-2-70,1,observed
+2-80,ratchet,25.0,0.1,0.1,8.0,2026-09-20,https://beywatch.gg/parts/ratchet-2-80,1,observed
+3-60,ratchet,33.4,45.5,46.5,4488.0,2026-09-20,https://beywatch.gg/parts/ratchet-3-60,1,observed
+3-70,ratchet,31.9,2.7,2.9,279.0,2026-09-20,https://beywatch.gg/parts/ratchet-3-70,1,observed
+3-80,ratchet,25.7,1.2,1.6,152.0,2026-09-20,https://beywatch.gg/parts/ratchet-3-80,1,observed
+3-85,ratchet,31.0,0.3,0.3,29.0,2026-09-20,https://beywatch.gg/parts/ratchet-3-85,1,observed
+4-50,ratchet,30.4,5.0,5.6,539.0,2026-09-20,https://beywatch.gg/parts/ratchet-4-50,1,observed
+4-55,ratchet,29.8,2.1,2.4,228.0,2026-09-20,https://beywatch.gg/parts/ratchet-4-55,1,observed
+4-60,ratchet,27.3,2.1,2.7,256.0,2026-09-20,https://beywatch.gg/parts/ratchet-4-60,1,observed
+4-70,ratchet,35.9,0.4,0.4,39.0,2026-09-20,https://beywatch.gg/parts/ratchet-4-70,1,observed
+4-80,ratchet,20.0,0.2,0.4,35.0,2026-09-20,https://beywatch.gg/parts/ratchet-4-80,1,observed
+5-50,ratchet,37.5,0.5,0.4,40.0,2026-09-20,https://beywatch.gg/parts/ratchet-5-50,1,observed
+5-60,ratchet,32.5,25.0,26.2,2532.0,2026-09-20,https://beywatch.gg/parts/ratchet-5-60,1,observed
+5-70,ratchet,30.4,2.2,2.5,240.0,2026-09-20,https://beywatch.gg/parts/ratchet-5-70,1,observed
+5-80,ratchet,20.8,0.6,1.0,96.0,2026-09-20,https://beywatch.gg/parts/ratchet-5-80,1,observed
+6-60,ratchet,31.8,5.8,6.2,601.0,2026-09-20,https://beywatch.gg/parts/ratchet-6-60,1,observed
+6-70,ratchet,25.4,0.5,0.6,59.0,2026-09-20,https://beywatch.gg/parts/ratchet-6-70,1,observed
+6-80,ratchet,13.6,0.1,0.2,22.0,2026-09-20,https://beywatch.gg/parts/ratchet-6-80,1,observed
+7-55,ratchet,27.6,0.9,1.1,105.0,2026-09-20,https://beywatch.gg/parts/ratchet-7-55,1,observed
+7-60,ratchet,34.0,23.6,23.7,2286.0,2026-09-20,https://beywatch.gg/parts/ratchet-7-60,1,observed
+7-70,ratchet,32.4,6.4,6.8,654.0,2026-09-20,https://beywatch.gg/parts/ratchet-7-70,1,observed
+7-80,ratchet,36.2,0.5,0.5,47.0,2026-09-20,https://beywatch.gg/parts/ratchet-7-80,1,observed
+8-70,ratchet,29.4,0.5,0.5,51.0,2026-09-20,https://beywatch.gg/parts/ratchet-8-70,1,observed
+8-80,ratchet,,,,,2026-09-20,https://beywatch.gg/parts/ratchet-8-80,0,pending_or_insufficient
+9-60,ratchet,33.9,67.4,67.9,6555.0,2026-09-20,https://beywatch.gg/parts/ratchet-9-60,1,observed
+9-65,ratchet,28.6,0.2,0.2,21.0,2026-09-20,https://beywatch.gg/parts/ratchet-9-65,1,observed
+9-70,ratchet,31.2,6.1,6.6,642.0,2026-09-20,https://beywatch.gg/parts/ratchet-9-70,1,observed
+9-80,ratchet,27.0,1.3,1.6,159.0,2026-09-20,https://beywatch.gg/parts/ratchet-9-80,1,observed
+M-85,ratchet,26.7,0.2,0.3,30.0,2026-09-20,https://beywatch.gg/parts/ratchet-m-85,1,observed
+Mummy Curse,blade,31.0,2.0,2.2,210.0,2026-09-20,https://beywatch.gg/blades/mummy-curse,1,observed
+Orochi Cluster,blade,22.4,0.3,0.5,49.0,2026-09-20,https://beywatch.gg/blades/orochi-cluster,1,observed
